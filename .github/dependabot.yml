@@ -9,7 +9,7 @@ updates:
     timezone: America/New_York
   assignees:
   - "samsmithnz"
-  open-pull-requests-limit: 10
+  open-pull-requests-limit: 0 
   groups:
     actions:
       patterns: ["*"]
